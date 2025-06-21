@@ -1,0 +1,19 @@
+{
+  "name": "coding-helper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Vinay Duvvada",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "electron": "^35.2.1",
+    "openai": "^4.96.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^3.2.9"
+  }
+}
